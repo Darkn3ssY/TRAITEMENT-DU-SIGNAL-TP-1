@@ -1,4 +1,4 @@
-# TRAITEMENT-DU-SIGNAL-TP-2
+# TRAITEMENT-DU-SIGNAL-TP-1
 
 ![image](https://user-images.githubusercontent.com/90354895/215298104-7c09f5a1-21c1-45b5-9e2c-6c769765087f.png)
 
